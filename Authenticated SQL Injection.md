@@ -45,3 +45,7 @@
     Connection: close
     Content-Type: text/html; charset=UTF-8
 
+
+
+https://github.com/yethu123/XSS-and-SQL-Injection-on-Free-and-Open-Source-inventory-management-system/assets/29069905/36e9e20b-1bfe-4031-87a9-7d45dfba2e77
+
