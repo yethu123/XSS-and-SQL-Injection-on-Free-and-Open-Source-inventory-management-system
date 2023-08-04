@@ -10,6 +10,8 @@ Request
 **Authenticated stored XSS**
 **Vulnerable Endpoints:** `/index.php?page=add_expense ,/index.php?page=add_product,/index.php?page=add_stuff, ...`
 **Affected endpoints:** `/index.php?page=sell_list,/index.php?page=buy_list,/index.php?page=product_list,/index.php?page=exspense_list,/index.php?page=staff_list,/index.php?page=dashboard,/index.php?page=category`
+![image](https://github.com/yethu123/XSS-and-SQL-Injection-on-Free-and-Open-Source-inventory-management-system/assets/29069905/3e20f2be-5083-4e59-9530-7ae4b4f7dcfc)
+
 **POC**
 
     POST /ample/app/action/add_product.php HTTP/1.1
@@ -47,3 +49,4 @@ Response
     
     yes
 
+![image](https://github.com/yethu123/XSS-and-SQL-Injection-on-Free-and-Open-Source-inventory-management-system/assets/29069905/a583971a-9c90-4caf-aeb9-b96c4189996d)
