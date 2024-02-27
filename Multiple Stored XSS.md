@@ -1,5 +1,5 @@
 ﻿
-**Exploit Title:** Free and Open Source inventory management system php - Multiple Stored XSS 
+**Exploit Title:** Free and Open Source inventory management system php - Multiple Stored XSS  <br>
 **Date**: 4/08/2023
 **Exploit Author:** y3thu
 **Vendor Homepage:** https://www.sourcecodester.com/users/mayurik
